@@ -1,2 +1,2 @@
 # ThePenis
-print("I love your penis!")
+content = "I love your penis!"
